@@ -1,0 +1,33 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_home"
+        android:title="Home" />
+    <item
+        android:id="@+id/nav_profile"
+        android:title="Search" />
+    <item
+        android:id="@+id/nav_settings"
+        android:title="Location" />
+    <item
+        android:id="@+id/nav_about"
+        android:title="About As" />
+
+    <item
+        android:id="@+id/nav_contact"
+        android:title="Contact" />
+
+    <item
+        android:id="@+id/nav_Enquiry"
+        android:title="Enquiry" />
+
+    <item
+        android:id="@+id/blog"
+        android:title="Blog" />
+    <item
+        android:id="@+id/TraningCentre"
+        android:title="Traning Centre" />
+
+
+
+
+</menu>
